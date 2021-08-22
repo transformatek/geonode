@@ -262,7 +262,7 @@ PASSWORD_HASHERS = [
     # 'django.contrib.auth.hashers.BCryptPasswordHasher',
 ]
 
-MODELTRANSLATION_LANGUAGES = ['en', ]
+MODELTRANSLATION_LANGUAGES = ['en', 'fr', 'ar', ]
 MODELTRANSLATION_DEFAULT_LANGUAGE = 'en'
 MODELTRANSLATION_FALLBACK_LANGUAGES = ('en',)
 
